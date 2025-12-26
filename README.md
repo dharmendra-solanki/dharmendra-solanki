@@ -1,5 +1,5 @@
 # 💫 I Am Dharmendra:
-🌱 I’m currently learning : React.js, python programming, javascript, backend with node.js
+🌱 I’m currently learning : React.js, python programming, javascript, backend with node.js<br/>
 📩 Reach me: dharmendrasolanki2004@gmail.com
 
 
