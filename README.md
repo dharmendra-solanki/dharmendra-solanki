@@ -1,4 +1,8 @@
-# 💫 I Am Dharmendra:
+# 💫 I Am Dharmendra:<br/>
+B.Tech @ IIIT Kota 🎓
+Full Stack Web Developer | React | JavaScript | Python
+Love turning ideas into code & solving problems 💻
+
 🌱 I’m currently learning : React.js, python programming, javascript, backend with node.js<br/>
 📩 Reach me: dharmendrasolanki2004@gmail.com
 
