@@ -3,7 +3,7 @@ B.Tech @ IIIT Kota 🎓<br/>
 Full Stack Web Developer | React | JavaScript | Python<br/>
 Love turning ideas into code & solving problems 💻<br/>
 
-🌱 I’m currently learning : React.js, python programming, javascript, backend with node.js<br/>
+🌱 I’m currently learning : React.js,tailwind, python programming, javascript, backend with node.js<br/>
 📩 Reach me: dharmendrasolanki2004@gmail.com
 
 
