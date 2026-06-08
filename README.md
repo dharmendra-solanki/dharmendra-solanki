@@ -1,11 +1,9 @@
 # 💫 I Am Dharmendra:<br/>
-🎓 B.Tech @ IIIT Kota
-💻 Full Stack Developer (MERN + Python)
-🚀 I love building real-world scalable apps
-🧠 Problem Solver | DSA + Web Dev Enthusiast
-🌱 Currently learning advanced React, backend systems & AI integration
-
-🌱 I’m currently learning : React.js,tailwind, python programming, javascript, backend with node.js<br/>
+🎓 B.Tech @ IIIT Kota <br/>
+💻 Full Stack Developer (MERN + Python) <br/>
+🚀 I love building real-world scalable apps <br/>
+🧠 Problem Solver | DSA + Web Dev Enthusiast <br/>
+🌱 Currently learning advanced React,taiwind , python programming , backend systems with node.js & AI integration <br/>
 📩 Reach me: dharmendrasolanki2004@gmail.com
 
 
