@@ -85,13 +85,41 @@
 
 ### 🛠 Tools
 
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
+<p>
 
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux,bash"/>
 
-![NPM](https://img.shields.io/badge/NPM-000?style=for-the-badge\&logo=npm)
+</p>
 
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge\&logo=figma)
+---
+
+### 🛠 Version Control
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github"/>
+
+</p>
+
+---
+
+### Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify"/>
+
+</p>
+
+---
+
+### DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions"/>
+
+</p>
 
 ---
 
