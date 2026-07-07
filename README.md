@@ -45,10 +45,11 @@
 
 ### 👨‍💻 Programming Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
-![C++](https://img.shields.io/badge/C++-000?style=for-the-badge\&logo=cplusplus)
-![C](https://img.shields.io/badge/C-000?style=for-the-badge\&logo=c)
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts"/>
+
+</p>
 
 ---
 
