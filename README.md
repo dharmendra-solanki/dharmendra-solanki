@@ -55,13 +55,11 @@
 
 ### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react)
+<p>
 
-![React Router](https://img.shields.io/badge/React_Router-000?style=for-the-badge\&logo=react-router)
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux,vite"/>
 
-![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge\&logo=redux)
-
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-000?style=for-the-badge\&logo=reacthookform)
+</p>
 
 ---
 
