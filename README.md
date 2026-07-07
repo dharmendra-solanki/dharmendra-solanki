@@ -75,9 +75,11 @@
 
 ### 🗄 Databases
 
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge\&logo=mongodb)
+<p>
 
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge\&logo=mysql)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
+
+</p>
 
 ---
 
