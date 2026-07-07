@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dharmendra-solanki/dharmendra-solanki/main/assets/coding.png" width="100%" alt="Coding GIF">
+<img src="https://raw.githubusercontent.com/dharmendra-solanki/dharmendra-solanki/main/coding.png" width="100%" alt="Coding GIF">
 
 </div>
 
