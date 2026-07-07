@@ -65,13 +65,11 @@
 
 ### ⚙ Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
+<p>
 
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge\&logo=express)
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge\&logo=fastapi)
-
-![JWT](https://img.shields.io/badge/JWT-000?style=for-the-badge\&logo=jsonwebtokens)
+</p>
 
 ---
 
