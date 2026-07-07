@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/dharmendra-solanki/dharmendra-solanki/blob/main/https://chatgpt.com/s/m_6a4d370739f4819186e5b07643276aa9" width="100%" />
+<img src="https://raw.githubusercontent.com/dharmendra-solanki/dharmendra-solanki/main/assets/coding.gif" width="100%" alt="Coding GIF">
 
 </div>
 
