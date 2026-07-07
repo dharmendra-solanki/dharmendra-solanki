@@ -1,5 +1,13 @@
 <div align="center">
 
+<img src="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/assets/coding.gif" width="900" alt="Coding GIF"/>
+
+</div>
+
+---
+
+<div align="center">
+
 # Hi 👋, I'm **Dharmendra Solanki**
 
 ### 🎓 B.Tech Student @ IIIT Kota
