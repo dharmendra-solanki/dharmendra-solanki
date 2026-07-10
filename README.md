@@ -12,7 +12,7 @@
 
 ### 🎓 B.Tech Student @ IIIT Kota
 
-### 💻 Full Stack Developer (MERN) • 📊 Data Analytics • 🤖 AI Enthusiast
+### 💻 Full Stack Developer • 📊 Data Analytics • 🤖 AI Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Data+Analytics;AI+Enthusiast;Always+Learning+New+Technologies" />
 
