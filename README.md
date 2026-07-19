@@ -95,7 +95,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux,bash"/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,linux"/>
 
 </p>
 
