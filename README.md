@@ -6,7 +6,7 @@
 
 ### 💻 Full Stack Developer | 📊 DevOps fundamental | 🤖 AI/ML Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI/ML Enthusiast;Devops+fundamental" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI%2FML+Enthusiast;DevOps+Explorer;Backend+Developer;Problem+Solver;Always+Learning+New+Technologies" />
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=dharmendra-solanki&label=Profile%20Views&color=8e2de2&style=for-the-badge" />
