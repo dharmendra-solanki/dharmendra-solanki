@@ -151,11 +151,11 @@ Emergency response application focused on real-time communication, location trac
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmendra-solanki&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://raw.githubusercontent.com/dharmendra-solanki/dharmendra-solanki/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
