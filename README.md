@@ -4,7 +4,7 @@
 
 ### 🎓 B.Tech CSE Student @ IIIT Kota
 
-### 💻 Full Stack Developer | 📊 Data Analytics | 🤖 AI Enthusiast
+### 💻 Full Stack Developer | 📊 DevOps | 🤖 AI/ML Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;Python+Developer;Data+Analytics+Enthusiast;AI+%26+Backend+Engineering;Always+Learning+New+Technologies" />
 
@@ -185,13 +185,17 @@ Emergency response application focused on real-time communication, location trac
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<!-- Add your LinkedIn URL below -->
-
-<!--
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="www.linkedin.com/in/dharmendra-6a8437323" />
 </a>
--->
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://leetcode.com/u/dharmendra_21/" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://dharmendraportfolioo.netlify.app/" />
+</a>
 
 </div>
 
