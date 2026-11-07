@@ -4,7 +4,7 @@
 
 ### 🎓 B.Tech CSE Student @ IIIT Kota
 
-### 💻 Full Stack Developer | 📊 DevOps | 🤖 AI/ML Enthusiast
+### 💻 Full Stack Developer | 📊 DevOps fundamental | 🤖 AI/ML Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;Python+Developer;Data+Analytics+Enthusiast;AI+%26+Backend+Engineering;Always+Learning+New+Technologies" />
 
