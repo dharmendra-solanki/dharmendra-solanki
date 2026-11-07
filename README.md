@@ -185,16 +185,20 @@ Emergency response application focused on real-time communication, location trac
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="www.linkedin.com/in/dharmendra-6a8437323" />
+<a href="https://www.linkedin.com/in/dharmendra-6a8437323/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="YOUR_LEETCODE_URL">
-<img src="https://leetcode.com/u/dharmendra_21/" />
+<a href="https://leetcode.com/u/dharmendra_21/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://dharmendraportfolioo.netlify.app/" />
+<a href="https://dharmendraportfolioo.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="mailto:dharmendrasolanki2004@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
