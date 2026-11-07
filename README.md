@@ -1,207 +1,210 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/dharmendra-solanki/dharmendra-solanki/main/coding.png" width="100%" alt="Coding GIF">
-
-</div>
-
----
-
-<div align="center">
+ <div align="center">
 
 # Hi 👋, I'm **Dharmendra Solanki**
 
-### 🎓 B.Tech Student @ IIIT Kota
+### 🎓 B.Tech CSE Student @ IIIT Kota
 
-### 💻 Full Stack Developer • 📊 Data Analytics • 🤖 AI Enthusiast
+### 💻 Full Stack Developer | 📊 Data Analytics | 🤖 AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Data+Analytics;AI+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;Python+Developer;Data+Analytics+Enthusiast;AI+%26+Backend+Engineering;Always+Learning+New+Technologies" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=dharmendra-solanki&label=Profile%20Views&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/dharmendra-solanki?style=flat-square&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=dharmendra-solanki&label=Profile%20Views&color=8e2de2&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/dharmendra-solanki?style=for-the-badge&logo=github&color=blue" />
 </p>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-🎓 **B.Tech Student** at **IIIT Kota**
-
-💻 Passionate about building scalable, real-world web applications using modern technologies.
-
-🚀 Exploring **Artificial Intelligence**, **Backend Engineering**, and **Cloud Technologies**.
-
-🧠 Strong interest in **Data Structures & Algorithms**, **System Design**, and solving challenging problems.
-
-🌱 **Currently Learning**
-
-* Advanced React
-* Tailwind CSS
-* Python Programming
-* Backend Systems with Node.js
-* AI Integration & LLM Applications
-
-📫 **Email**
-
-**[dharmendrasolanki2004@gmail.com](mailto:dharmendrasolanki2004@gmail.com)**
+- 🎓 B.Tech Computer Science Student at **IIIT Kota**.
+- 💻 Passionate about building scalable and responsive full-stack applications.
+- 🚀 Interested in **Full Stack Development, Backend Engineering, and AI Integration**.
+- 🧠 Practicing **Data Structures & Algorithms** using C++.
+- ⚙️ Exploring **DevOps, Docker, Cloud Technologies, and Deployment**.
+- 🌱 Continuously learning new technologies and improving problem-solving skills.
+- 📫 Reach me at **[dharmendrasolanki2004@gmail.com](mailto:dharmendrasolanki2004@gmail.com)**.
 
 ---
 
-# 🚀 Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### 👨‍💻 Programming Languages
 
-<p>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts"/>
+### 🎨 Frontend Development
 
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
----
+### ⚙️ Backend Development
 
-### 🎨 Frontend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<p>
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux,vite"/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-</p>
+### ☁️ Cloud & DevOps
 
----
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### ⚙ Backend
+### 🛠️ Tools & Version Control
 
-<p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-
-</p>
-
----
-
-### 🗄 Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
-
-</p>
-
----
-
-### 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,linux"/>
-
-</p>
+</div>
 
 ---
 
-### 🛠 Version Control
+## 🚀 Featured Projects
 
-<p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=git,github"/>
+### 💰 Expense Tracker AI
 
-</p>
+AI-powered expense tracking application to manage expenses, analyze spending patterns, and understand financial activities.
 
----
+**Tech Stack:** `Next.js` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `AI API`
 
-### Cloud
+🔗 [GitHub Repository](https://github.com/dharmendra-solanki)
 
-<p>
+</td>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,netlify"/>
+### 🤖 ReplyGenie
 
-</p>
+AI-powered WhatsApp Business Assistant designed to automate customer communication and generate intelligent replies.
 
----
+**Tech Stack:** `Next.js` `TypeScript` `Node.js` `Express` `WhatsApp Cloud API` `AI API`
 
-### DevOps
+🔗 [GitHub Repository](https://github.com/dharmendra-solanki)
 
-<p>
+</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions"/>
+<tr>
+<td width="50%" valign="top">
 
-</p>
+### 🔎 Lost & Found Campus
 
----
+A campus-based platform that helps students report, search, and recover lost belongings.
 
-# 📈 GitHub Analytics
+**Tech Stack:** `Next.js` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `Gemini AI`
 
-<p align="center">
+🔗 [GitHub Repository](https://github.com/dharmendra-solanki)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dharmendra-solanki&show_icons=true&theme=github_dark&hide_border=true"/>
+</td>
+<td width="50%" valign="top">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendra-solanki&theme=github-dark&hide_border=true"/>
+### 🚨 RapidResQ
 
-</p>
+Emergency response application focused on real-time communication, location tracking, and emergency coordination.
 
-<p align="center">
+**Tech Stack:** `Node.js` `Express` `PostgreSQL` `Prisma` `Socket.IO`
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra-solanki&layout=compact&theme=github_dark&hide_border=true"/>
+🔗 [GitHub Repository](https://github.com/dharmendra-solanki)
 
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmendra-solanki&theme=github-dark&hide_border=true"/>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-# 🎯 Current Focus
+## 📊 GitHub Analytics
 
-* 🚀 Building Full Stack Applications
-* 🤖 AI Integration Projects
-* 📚 Advanced Backend Development
-* 🐳 Docker & Cloud Deployment
-* ⚡ System Design
-* 💡 Open Source Contributions
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dharmendra-solanki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendra-solanki&theme=tokyonight&hide_border=true" />
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra-solanki&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<a href="mailto:dharmendrasolanki2004@gmail.com">
-<img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmendra-solanki&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Building scalable Full Stack Applications.
+- 🧠 Improving DSA and Competitive Programming skills using C++.
+- 🤖 Exploring Generative AI and LLM Applications.
+- ⚙️ Learning Backend Architecture and System Design.
+- 🐳 Exploring Docker, Kubernetes, and CI/CD.
+- ☁️ Learning Cloud Deployment and AWS.
+- 💡 Building practical projects and contributing to Open Source.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/dharmendra-solanki">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!-- Add your LinkedIn -->
+<a href="mailto:dharmendrasolanki2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<!-- Add your LinkedIn URL below -->
 
 <!--
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 -->
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-![](https://visitcount.itsvg.in/api?id=dharmendra-solanki\&icon=5\&color=6)
+### ⭐ "Code. Learn. Build. Repeat."
 
-### ⭐ *"Code. Learn. Build. Repeat."*
+**Thanks for visiting my profile!**
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+Feel free to explore my repositories and connect with me.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" width="100%" />
 
 </div>
-
-
