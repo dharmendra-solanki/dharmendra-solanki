@@ -25,7 +25,7 @@
 - 🧠 Practicing **Data Structures & Algorithms** using C++.
 - ⚙️ Exploring **DevOps, Docker, Cloud Technologies, and Deployment**.
 - 🌱 Continuously learning new technologies and improving problem-solving skills.
-- 📫 Reach me at **[dharmendrasolanki2004@gmail.com](mailto:dharmendrasolanki2004@gmail.com)**.
+- 📫 Reach me at **[dsolanki10211@gmail.com](mailto:dsolanki10211@gmail.com)**.
 
 ---
 
@@ -141,11 +141,11 @@ Emergency response application focused on real-time communication, location trac
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dharmendra-solanki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=dharmendra-solanki&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendra-solanki&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.vercel.app?user=dharmendra-solanki&theme=tokyonight&hide_border=true" />
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmendra-solanki&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dharmendra-solanki&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
